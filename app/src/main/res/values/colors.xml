@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="lineseparator">#808080</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="MissedCallTime">#FF0000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colordarkgrey">#A9A9A9</color>
+
+    <color name="colorPrimary">#00b8c4</color>
+    <color name="colorTopBar">#ffaf3c</color>
+    <color name="colorPrimaryAlpha">#8000b8c4</color>
+    <color name="colorPrimaryDark">#00939c</color>
+    <color name="colorPrimaryLight">#00b8c4</color>
+    <color name="colorUnSelectedMenu">#c7dc93</color>
+    <color name="colorAccent">#00b8c4</color>
+
+</resources>

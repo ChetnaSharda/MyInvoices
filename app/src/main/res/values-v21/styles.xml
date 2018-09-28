@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorControlNormal">@color/colorBlack</item>
+        <item name="android:homeAsUpIndicator">@color/colorWhite</item>
+        <item name="android:actionBarItemBackground">@color/colorWhite</item>
+        <item name="actionBarItemBackground">@color/colorWhite</item>
+        <item name="android:colorControlActivated">@color/colorWhite</item>
+    </style>
+</resources>

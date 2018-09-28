@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<path xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="external_files" path="."/>
+
+    <!--<external-path name="my_images"-->
+        <!--path="Android/data/com.leif.styleyourtalentnew/files/Pictures" />-->
+
+    <!--<root-path-->
+        <!--name="root"-->
+        <!--path="." />-->
+
+    <!--<external-files-path-->
+        <!--name="images"-->
+        <!--path="Pictures" />-->
+
+    <!--<external-path name="all_dirs" path="."/>-->
+</path>
